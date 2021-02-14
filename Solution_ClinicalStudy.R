@@ -1,5 +1,4 @@
-getwd()
-setwd("E:/SRH/2nd Semester/Analytics 2/data")
+
 clinical_study_df <- read.table(file="ClinicalStudy.txt", header = TRUE, dec = ",")
 View(clinical_study)
 
